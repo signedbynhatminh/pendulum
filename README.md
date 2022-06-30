@@ -1,4 +1,6 @@
 # pendulum
 LONG MINH 
 
-hI, LET' GET START
+Tung Anh:
+Link to refer pendulum program:
+https://www.myphysicslab.com/pendulum/pendulum-en.html
